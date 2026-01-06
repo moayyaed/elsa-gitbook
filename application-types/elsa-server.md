@@ -6,7 +6,7 @@ description: >-
 
 # Elsa Server
 
-An Elsa Server is an ASP.NET Core web application that lets you manage workflows using a REST API ad execute them. You can store your workflows in various places like databases, file systems, or even cloud storage.
+An Elsa Server is an ASP.NET Core web application that lets you manage workflows using a REST API and execute them. You can store your workflows in various places like databases, file systems, or even cloud storage.
 
 ## Setup﻿ <a href="#setup" id="setup"></a>
 
